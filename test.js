@@ -2,7 +2,7 @@
 // a fake test case
 describe("Adding two numbers", () => {
     it("Should return the sum", ()=> {
-        expect(10+20).toBe(30)              
+        expect(10+10).toBe(30)              
     })
  })
  
