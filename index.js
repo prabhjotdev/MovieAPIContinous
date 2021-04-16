@@ -24,7 +24,7 @@ let upcomingMovies = [
     },
     {
         "id":3,
-        "name":"Mortal Kombat",
+        "name":"Mortal Kombat The Old One",
         "desc":"A remake of the classic 1995 film, based on the seminal video game series"
     },
     {
